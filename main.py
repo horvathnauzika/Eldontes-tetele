@@ -1,3 +1,3 @@
 import eldontestetele
-
-eldontestetele.tetel()
+import Szamitogep_program
+# eldontestetele.tetel()
